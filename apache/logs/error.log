@@ -1,0 +1,535 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:34:18.072529 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 00:34:18.072529 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 00:34:18.072529 2015] [core:notice] [pid 11648:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 00:34:18.099530 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00418: Parent: Created child process 11400
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:34:18.617560 2015] [mpm_winnt:notice] [pid 11400:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 00:36:44.658913 2015] [:error] [pid 11400:tid 1088] [client ::1:61306] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\etc\\www\\phpinfo.php on line 2
+[Fri May 01 00:40:08.940597 2015] [:error] [pid 11400:tid 1088] [client ::1:61427] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\etc\\www\\phpinfo.php on line 2
+[Fri May 01 00:40:19.677211 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+Failed loading c:/ext/php/ext/php_xdebug-2.1.0-5.3-vc6.dll
+[Fri May 01 00:40:19.729214 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 00:40:19.729214 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 00:40:19.729214 2015] [core:notice] [pid 11648:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 00:40:19.757216 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00418: Parent: Created child process 11372
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+Failed loading c:/ext/php/ext/php_xdebug-2.1.0-5.3-vc6.dll
+[Fri May 01 00:40:20.677268 2015] [mpm_winnt:notice] [pid 11372:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 00:40:21.677326 2015] [mpm_winnt:notice] [pid 11400:tid 560] AH00364: Child: All worker threads have exited.
+[Fri May 01 00:40:24.225471 2015] [:error] [pid 11372:tid 1124] [client ::1:61432] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\etc\\www\\phpinfo.php on line 2
+[Fri May 01 00:40:24.980515 2015] [:error] [pid 11372:tid 1124] [client ::1:61432] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\etc\\www\\phpinfo.php on line 2
+[Fri May 01 00:42:34.521924 2015] [:error] [pid 11372:tid 1124] [client ::1:61588] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\etc\\www\\phpinfo.php on line 2
+[Fri May 01 00:42:35.264966 2015] [:error] [pid 11372:tid 1124] [client ::1:61588] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\etc\\www\\phpinfo.php on line 2
+[Fri May 01 00:42:38.893174 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+Failed loading c:/ext/php/ext/php_xdebug-2.1.0-5.3-vc6.dll
+[Fri May 01 00:42:38.933176 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 00:42:38.933176 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 00:42:38.933176 2015] [core:notice] [pid 11648:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 00:42:38.959178 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00418: Parent: Created child process 11004
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+Failed loading c:/ext/php/ext/php_xdebug-2.1.0-5.3-vc6.dll
+[Fri May 01 00:42:39.893231 2015] [mpm_winnt:notice] [pid 11004:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 00:42:41.594328 2015] [mpm_winnt:notice] [pid 11372:tid 560] AH00364: Child: All worker threads have exited.
+[Fri May 01 00:46:59.746094 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:46:59.797097 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 00:46:59.797097 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 00:46:59.797097 2015] [core:notice] [pid 11648:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 00:46:59.824098 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00418: Parent: Created child process 5332
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:47:00.746151 2015] [mpm_winnt:notice] [pid 5332:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 00:47:01.746208 2015] [mpm_winnt:notice] [pid 11004:tid 560] AH00364: Child: All worker threads have exited.
+[Fri May 01 00:48:41.861935 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:48:41.908937 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 00:48:41.908937 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 00:48:41.908937 2015] [core:notice] [pid 11648:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 00:48:41.934939 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00418: Parent: Created child process 10048
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:48:42.861992 2015] [mpm_winnt:notice] [pid 10048:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 00:48:43.862049 2015] [mpm_winnt:notice] [pid 5332:tid 560] AH00364: Child: All worker threads have exited.
+[Fri May 01 00:50:03.173585 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:50:03.220588 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 00:50:03.220588 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 00:50:03.220588 2015] [core:notice] [pid 11648:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 00:50:03.261590 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00418: Parent: Created child process 6792
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 00:50:04.173642 2015] [mpm_winnt:notice] [pid 6792:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 00:50:05.173700 2015] [mpm_winnt:notice] [pid 10048:tid 560] AH00364: Child: All worker threads have exited.
+[Fri May 01 01:01:02.937821 2015] [mpm_winnt:warn] [pid 6792:tid 316] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri May 01 01:01:02.940321 2015] [mpm_winnt:warn] [pid 6792:tid 316] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri May 01 01:01:09.387921 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 01 01:01:11.390202 2015] [mpm_winnt:notice] [pid 6792:tid 560] AH00364: Child: All worker threads have exited.
+[Fri May 01 01:01:11.403952 2015] [mpm_winnt:notice] [pid 11648:tid 620] AH00430: Parent: Child process 6792 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1483:2156:bd3d:c59d. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 08:02:32.160708 2015] [mpm_winnt:notice] [pid 1600:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 08:02:32.160708 2015] [mpm_winnt:notice] [pid 1600:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 08:02:32.160708 2015] [core:notice] [pid 1600:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 08:02:32.164458 2015] [mpm_winnt:notice] [pid 1600:tid 620] AH00418: Parent: Created child process 2504
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1483:2156:bd3d:c59d. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1483:2156:bd3d:c59d. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 08:02:33.106973 2015] [mpm_winnt:notice] [pid 2504:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 10:26:05.112477 2015] [:error] [pid 2504:tid 1088] [client ::1:52110] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:26:05.112477 2015] [:error] [pid 2504:tid 1088] [client ::1:52110] PHP Stack trace:
+[Fri May 01 10:26:05.112477 2015] [:error] [pid 2504:tid 1088] [client ::1:52110] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:05.113477 2015] [:error] [pid 2504:tid 1088] [client ::1:52110] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:26:05.114477 2015] [:error] [pid 2504:tid 1088] [client ::1:52110] PHP Stack trace:
+[Fri May 01 10:26:05.114477 2015] [:error] [pid 2504:tid 1088] [client ::1:52110] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:05.114477 2015] [:error] [pid 2504:tid 1088] [client ::1:52110] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:26:14.763028 2015] [:error] [pid 2504:tid 1088] [client ::1:52117] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:26:14.764029 2015] [:error] [pid 2504:tid 1088] [client ::1:52117] PHP Stack trace:
+[Fri May 01 10:26:14.764029 2015] [:error] [pid 2504:tid 1088] [client ::1:52117] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:14.764029 2015] [:error] [pid 2504:tid 1088] [client ::1:52117] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:26:14.764029 2015] [:error] [pid 2504:tid 1088] [client ::1:52117] PHP Stack trace:
+[Fri May 01 10:26:14.764029 2015] [:error] [pid 2504:tid 1088] [client ::1:52117] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:14.764029 2015] [:error] [pid 2504:tid 1088] [client ::1:52117] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:26:52.632194 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:26:52.632194 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Stack trace:
+[Fri May 01 10:26:52.632194 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:52.632194 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:26:52.632194 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Stack trace:
+[Fri May 01 10:26:52.632194 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:52.632194 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:26:55.318348 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:26:55.318348 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Stack trace:
+[Fri May 01 10:26:55.318348 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:55.318348 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:26:55.318348 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP Stack trace:
+[Fri May 01 10:26:55.318348 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:26:55.318348 2015] [:error] [pid 2504:tid 1088] [client ::1:51673] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:27:20.353780 2015] [:error] [pid 2504:tid 1080] [client ::1:51760] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:27:20.353780 2015] [:error] [pid 2504:tid 1080] [client ::1:51760] PHP Stack trace:
+[Fri May 01 10:27:20.354780 2015] [:error] [pid 2504:tid 1080] [client ::1:51760] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:27:20.354780 2015] [:error] [pid 2504:tid 1080] [client ::1:51760] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:27:20.354780 2015] [:error] [pid 2504:tid 1080] [client ::1:51760] PHP Stack trace:
+[Fri May 01 10:27:20.354780 2015] [:error] [pid 2504:tid 1080] [client ::1:51760] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:27:20.354780 2015] [:error] [pid 2504:tid 1080] [client ::1:51760] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:27:52.873640 2015] [:error] [pid 2504:tid 1080] [client ::1:51832] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:27:52.873640 2015] [:error] [pid 2504:tid 1080] [client ::1:51832] PHP Stack trace:
+[Fri May 01 10:27:52.873640 2015] [:error] [pid 2504:tid 1080] [client ::1:51832] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:27:52.873640 2015] [:error] [pid 2504:tid 1080] [client ::1:51832] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:27:52.873640 2015] [:error] [pid 2504:tid 1080] [client ::1:51832] PHP Stack trace:
+[Fri May 01 10:27:52.873640 2015] [:error] [pid 2504:tid 1080] [client ::1:51832] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:27:52.873640 2015] [:error] [pid 2504:tid 1080] [client ::1:51832] PHP   2. deliver_response($status = *uninitialized*, $status_message = *uninitialized*, $data = *uninitialized*) C:\\etc\\www\\index.php:16
+[Fri May 01 10:28:27.778637 2015] [:error] [pid 2504:tid 1080] [client ::1:51899] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:28:27.779637 2015] [:error] [pid 2504:tid 1080] [client ::1:51899] PHP Stack trace:
+[Fri May 01 10:28:27.779637 2015] [:error] [pid 2504:tid 1080] [client ::1:51899] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:28:27.779637 2015] [:error] [pid 2504:tid 1080] [client ::1:51899] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:28:27.779637 2015] [:error] [pid 2504:tid 1080] [client ::1:51899] PHP Stack trace:
+[Fri May 01 10:28:27.779637 2015] [:error] [pid 2504:tid 1080] [client ::1:51899] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:28:27.779637 2015] [:error] [pid 2504:tid 1080] [client ::1:51899] PHP   2. deliver_response($status = *uninitialized*, $status_message = *uninitialized*, $data = *uninitialized*) C:\\etc\\www\\index.php:16
+[Fri May 01 10:28:46.161688 2015] [:error] [pid 2504:tid 1088] [client ::1:52024] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:28:46.161688 2015] [:error] [pid 2504:tid 1088] [client ::1:52024] PHP Stack trace:
+[Fri May 01 10:28:46.162688 2015] [:error] [pid 2504:tid 1088] [client ::1:52024] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:28:46.162688 2015] [:error] [pid 2504:tid 1088] [client ::1:52024] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:28:46.162688 2015] [:error] [pid 2504:tid 1088] [client ::1:52024] PHP Stack trace:
+[Fri May 01 10:28:46.162688 2015] [:error] [pid 2504:tid 1088] [client ::1:52024] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:28:46.162688 2015] [:error] [pid 2504:tid 1088] [client ::1:52024] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:29:29.315156 2015] [:error] [pid 2504:tid 1088] [client ::1:52025] PHP Notice:  Undefined variable: price in C:\\etc\\www\\index.php on line 16
+[Fri May 01 10:29:29.315156 2015] [:error] [pid 2504:tid 1088] [client ::1:52025] PHP Stack trace:
+[Fri May 01 10:29:29.315156 2015] [:error] [pid 2504:tid 1088] [client ::1:52025] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:29:29.315156 2015] [:error] [pid 2504:tid 1088] [client ::1:52025] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:29:29.316156 2015] [:error] [pid 2504:tid 1088] [client ::1:52025] PHP Stack trace:
+[Fri May 01 10:29:29.316156 2015] [:error] [pid 2504:tid 1088] [client ::1:52025] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:29:29.316156 2015] [:error] [pid 2504:tid 1088] [client ::1:52025] PHP   2. deliver_response($status = *uninitialized*, $status_message = *uninitialized*, $data = *uninitialized*) C:\\etc\\www\\index.php:16
+[Fri May 01 10:30:49.157723 2015] [:error] [pid 2504:tid 1088] [client ::1:52455] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:30:49.157723 2015] [:error] [pid 2504:tid 1088] [client ::1:52455] PHP Stack trace:
+[Fri May 01 10:30:49.158723 2015] [:error] [pid 2504:tid 1088] [client ::1:52455] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:30:49.158723 2015] [:error] [pid 2504:tid 1088] [client ::1:52455] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:31:50.260218 2015] [:error] [pid 2504:tid 1088] [client ::1:52457] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:31:50.260218 2015] [:error] [pid 2504:tid 1088] [client ::1:52457] PHP Stack trace:
+[Fri May 01 10:31:50.260218 2015] [:error] [pid 2504:tid 1088] [client ::1:52457] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:31:50.260218 2015] [:error] [pid 2504:tid 1088] [client ::1:52457] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:32:22.295050 2015] [:error] [pid 2504:tid 1088] [client ::1:52462] PHP Notice:  Undefined variable: satus in C:\\etc\\www\\index.php on line 21
+[Fri May 01 10:32:22.295050 2015] [:error] [pid 2504:tid 1088] [client ::1:52462] PHP Stack trace:
+[Fri May 01 10:32:22.295050 2015] [:error] [pid 2504:tid 1088] [client ::1:52462] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:32:22.295050 2015] [:error] [pid 2504:tid 1088] [client ::1:52462] PHP   2. deliver_response() C:\\etc\\www\\index.php:16
+[Fri May 01 10:35:12.788802 2015] [:error] [pid 2504:tid 1072] [client ::1:52500] PHP Fatal error:  Cannot redeclare get_price() (previously declared in C:\\etc\\www\\functions.php:3) in C:\\etc\\www\\functions.php on line 19
+[Fri May 01 10:35:12.788802 2015] [:error] [pid 2504:tid 1072] [client ::1:52500] PHP Stack trace:
+[Fri May 01 10:35:12.788802 2015] [:error] [pid 2504:tid 1072] [client ::1:52500] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:35:20.191225 2015] [:error] [pid 2504:tid 1088] [client ::1:52492] PHP Fatal error:  Cannot redeclare get_price() (previously declared in C:\\etc\\www\\functions.php:3) in C:\\etc\\www\\functions.php on line 19
+[Fri May 01 10:35:20.191225 2015] [:error] [pid 2504:tid 1088] [client ::1:52492] PHP Stack trace:
+[Fri May 01 10:35:20.191225 2015] [:error] [pid 2504:tid 1088] [client ::1:52492] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:35:29.608764 2015] [:error] [pid 2504:tid 1088] [client ::1:52502] PHP Fatal error:  Cannot redeclare get_price() (previously declared in C:\\etc\\www\\functions.php:3) in C:\\etc\\www\\functions.php on line 19
+[Fri May 01 10:35:29.608764 2015] [:error] [pid 2504:tid 1088] [client ::1:52502] PHP Stack trace:
+[Fri May 01 10:35:29.609764 2015] [:error] [pid 2504:tid 1088] [client ::1:52502] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:35:36.381151 2015] [:error] [pid 2504:tid 1088] [client ::1:52506] PHP Fatal error:  Cannot redeclare get_price() (previously declared in C:\\etc\\www\\functions.php:3) in C:\\etc\\www\\functions.php on line 19
+[Fri May 01 10:35:36.382151 2015] [:error] [pid 2504:tid 1088] [client ::1:52506] PHP Stack trace:
+[Fri May 01 10:35:36.382151 2015] [:error] [pid 2504:tid 1088] [client ::1:52506] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:36:51.248433 2015] [:error] [pid 2504:tid 1088] [client ::1:52510] PHP Fatal error:  Call to undefined function get_prece() in C:\\etc\\www\\index.php on line 8
+[Fri May 01 10:36:51.248433 2015] [:error] [pid 2504:tid 1088] [client ::1:52510] PHP Stack trace:
+[Fri May 01 10:36:51.248433 2015] [:error] [pid 2504:tid 1088] [client ::1:52510] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 10:43:18.269570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP Warning:  mysqli::mysqli():  in C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php on line 24
+[Fri May 01 10:43:18.269570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP Stack trace:
+[Fri May 01 10:43:18.269570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   1. {main}() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:0
+[Fri May 01 10:43:18.269570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   2. API->__construct() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:174
+[Fri May 01 10:43:18.269570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   3. API->dbConnect() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:17
+[Fri May 01 10:43:18.269570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   4. mysqli->mysqli() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:24
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php on line 67
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP Stack trace:
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   1. {main}() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:0
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   2. API->processApi() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:175
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   3. API->customers() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:33
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   4. mysqli->query() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:67
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP Warning:  API::customers(): Couldn't fetch mysqli in C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php on line 67
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP Stack trace:
+[Fri May 01 10:43:18.270570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   1. {main}() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:0
+[Fri May 01 10:43:18.271570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   2. API->processApi() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:175
+[Fri May 01 10:43:18.271570 2015] [:error] [pid 2504:tid 1088] [client ::1:62198] PHP   3. API->customers() C:\\etc\\www\\AngularCodeCustomerManagerApp\\services\\api.php:33
+[Fri May 01 10:47:28.521883 2015] [:error] [pid 2504:tid 1088] [client ::1:62250] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0, referer: http://localhost/AngularCodeCustomerManagerApp/index.html
+[Fri May 01 16:33:20.305817 2015] [mpm_winnt:notice] [pid 1600:tid 620] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 16:33:20.673839 2015] [mpm_winnt:notice] [pid 1600:tid 620] AH00455: Apache/2.4.12 (Win32) PHP/5.6.8 configured -- resuming normal operations
+[Fri May 01 16:33:20.673839 2015] [mpm_winnt:notice] [pid 1600:tid 620] AH00456: Apache Lounge VC11 Server built: Jan 28 2015 16:48:40
+[Fri May 01 16:33:20.673839 2015] [core:notice] [pid 1600:tid 620] AH00094: Command line: 'C:\\etc\\apache\\bin\\httpd.exe -d C:/etc/apache'
+[Fri May 01 16:33:20.703840 2015] [mpm_winnt:notice] [pid 1600:tid 620] AH00418: Parent: Created child process 10212
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::601a:ca05:c492:4730. Set the 'ServerName' directive globally to suppress this message
+[Fri May 01 16:33:21.308875 2015] [mpm_winnt:notice] [pid 10212:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri May 01 16:33:22.309932 2015] [mpm_winnt:notice] [pid 2504:tid 560] AH00364: Child: All worker threads have exited.
+[Fri May 01 16:33:51.099579 2015] [:error] [pid 10212:tid 1124] [client ::1:49725] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0, referer: http://localhost/AngularCodeCustomerManagerApp/index.html
+[Fri May 01 17:50:29.339183 2015] [:error] [pid 10212:tid 1124] [client ::1:52189] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\\etc\\www\\index.php on line 4
+[Fri May 01 17:50:29.339183 2015] [:error] [pid 10212:tid 1124] [client ::1:52189] PHP Stack trace:
+[Fri May 01 17:50:29.339183 2015] [:error] [pid 10212:tid 1124] [client ::1:52189] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 17:50:29.339183 2015] [:error] [pid 10212:tid 1124] [client ::1:52189] PHP   2. mysql_connect() C:\\etc\\www\\index.php:4
+[Fri May 01 17:51:57.385219 2015] [:error] [pid 10212:tid 1124] [client ::1:52209] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\\etc\\www\\index.php on line 4
+[Fri May 01 17:51:57.385219 2015] [:error] [pid 10212:tid 1124] [client ::1:52209] PHP Stack trace:
+[Fri May 01 17:51:57.385219 2015] [:error] [pid 10212:tid 1124] [client ::1:52209] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 17:51:57.386219 2015] [:error] [pid 10212:tid 1124] [client ::1:52209] PHP   2. mysql_connect() C:\\etc\\www\\index.php:4
+[Fri May 01 17:53:03.028973 2015] [:error] [pid 10212:tid 1124] [client ::1:52309] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\\etc\\www\\index.php on line 9
+[Fri May 01 17:53:03.028973 2015] [:error] [pid 10212:tid 1124] [client ::1:52309] PHP Stack trace:
+[Fri May 01 17:53:03.028973 2015] [:error] [pid 10212:tid 1124] [client ::1:52309] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 17:53:03.028973 2015] [:error] [pid 10212:tid 1124] [client ::1:52309] PHP   2. mysql_close() C:\\etc\\www\\index.php:9
+[Fri May 01 17:55:04.133900 2015] [:error] [pid 10212:tid 1124] [client ::1:52323] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\\etc\\www\\index.php on line 9
+[Fri May 01 17:55:04.133900 2015] [:error] [pid 10212:tid 1124] [client ::1:52323] PHP Stack trace:
+[Fri May 01 17:55:04.133900 2015] [:error] [pid 10212:tid 1124] [client ::1:52323] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 17:55:04.133900 2015] [:error] [pid 10212:tid 1124] [client ::1:52323] PHP   2. mysql_close() C:\\etc\\www\\index.php:9
+[Fri May 01 18:04:01.187618 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\\etc\\www\\index.php on line 10
+[Fri May 01 18:04:01.187618 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP Stack trace:
+[Fri May 01 18:04:01.187618 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:04:01.187618 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP   2. mysql_query() C:\\etc\\www\\index.php:10
+[Fri May 01 18:04:02.198676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in C:\\etc\\www\\index.php on line 10
+[Fri May 01 18:04:02.199676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP Stack trace:
+[Fri May 01 18:04:02.199676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:04:02.199676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP   2. mysql_query() C:\\etc\\www\\index.php:10
+[Fri May 01 18:04:02.199676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP Warning:  mysql_query(): A link to the server could not be established in C:\\etc\\www\\index.php on line 10
+[Fri May 01 18:04:02.199676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP Stack trace:
+[Fri May 01 18:04:02.199676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:04:02.199676 2015] [:error] [pid 10212:tid 1124] [client ::1:57636] PHP   2. mysql_query() C:\\etc\\www\\index.php:10
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Notice:  Undefined variable: con in C:\\etc\\www\\index.php on line 10
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Stack trace:
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\\etc\\www\\index.php on line 10
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Stack trace:
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP   2. mysqli_query() C:\\etc\\www\\index.php:10
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Notice:  Undefined variable: con in C:\\etc\\www\\index.php on line 11
+[Fri May 01 18:07:44.756405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Stack trace:
+[Fri May 01 18:07:44.757405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:07:44.757405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\\etc\\www\\index.php on line 12
+[Fri May 01 18:07:44.757405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP Stack trace:
+[Fri May 01 18:07:44.757405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:07:44.757405 2015] [:error] [pid 10212:tid 1120] [client ::1:57742] PHP   2. mysqli_query() C:\\etc\\www\\index.php:12
+[Fri May 01 18:26:52.744066 2015] [:error] [pid 10212:tid 1124] [client ::1:58061] PHP Notice:  Undefined variable: conn in C:\\etc\\www\\index.php on line 20
+[Fri May 01 18:26:52.744066 2015] [:error] [pid 10212:tid 1124] [client ::1:58061] PHP Stack trace:
+[Fri May 01 18:26:52.744066 2015] [:error] [pid 10212:tid 1124] [client ::1:58061] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:26:52.744066 2015] [:error] [pid 10212:tid 1124] [client ::1:58061] PHP Fatal error:  Call to a member function query() on null in C:\\etc\\www\\index.php on line 20
+[Fri May 01 18:26:52.744066 2015] [:error] [pid 10212:tid 1124] [client ::1:58061] PHP Stack trace:
+[Fri May 01 18:26:52.744066 2015] [:error] [pid 10212:tid 1124] [client ::1:58061] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:33:49.629911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Notice:  Undefined index: id in C:\\etc\\www\\index.php on line 25
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Stack trace:
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Notice:  Undefined index: id in C:\\etc\\www\\index.php on line 25
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Stack trace:
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Notice:  Undefined index: id in C:\\etc\\www\\index.php on line 25
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Stack trace:
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Notice:  Undefined index: id in C:\\etc\\www\\index.php on line 25
+[Fri May 01 18:33:49.630911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Stack trace:
+[Fri May 01 18:33:49.631911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 18:33:49.631911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Notice:  Undefined index: id in C:\\etc\\www\\index.php on line 25
+[Fri May 01 18:33:49.631911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP Stack trace:
+[Fri May 01 18:33:49.631911 2015] [:error] [pid 10212:tid 1124] [client ::1:58108] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 19:59:25.294637 2015] [:error] [pid 10212:tid 1120] [client ::1:56633] PHP Notice:  Trying to get property of non-object in C:\\etc\\www\\index.php on line 29
+[Fri May 01 19:59:25.294637 2015] [:error] [pid 10212:tid 1120] [client ::1:56633] PHP Stack trace:
+[Fri May 01 19:59:25.294637 2015] [:error] [pid 10212:tid 1120] [client ::1:56633] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 20:01:19.801186 2015] [:error] [pid 10212:tid 1120] [client ::1:56639] PHP Notice:  Trying to get property of non-object in C:\\etc\\www\\index.php on line 28
+[Fri May 01 20:01:19.801186 2015] [:error] [pid 10212:tid 1120] [client ::1:56639] PHP Stack trace:
+[Fri May 01 20:01:19.801186 2015] [:error] [pid 10212:tid 1120] [client ::1:56639] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 20:01:21.759298 2015] [:error] [pid 10212:tid 1120] [client ::1:56639] PHP Notice:  Trying to get property of non-object in C:\\etc\\www\\index.php on line 28
+[Fri May 01 20:01:21.759298 2015] [:error] [pid 10212:tid 1120] [client ::1:56639] PHP Stack trace:
+[Fri May 01 20:01:21.759298 2015] [:error] [pid 10212:tid 1120] [client ::1:56639] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 20:02:31.328278 2015] [:error] [pid 10212:tid 1120] [client ::1:56645] PHP Notice:  Trying to get property of non-object in C:\\etc\\www\\index.php on line 28
+[Fri May 01 20:02:31.328278 2015] [:error] [pid 10212:tid 1120] [client ::1:56645] PHP Stack trace:
+[Fri May 01 20:02:31.328278 2015] [:error] [pid 10212:tid 1120] [client ::1:56645] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 20:03:20.571094 2015] [:error] [pid 10212:tid 1120] [client ::1:56652] PHP Notice:  Trying to get property of non-object in C:\\etc\\www\\index.php on line 28
+[Fri May 01 20:03:20.571094 2015] [:error] [pid 10212:tid 1120] [client ::1:56652] PHP Stack trace:
+[Fri May 01 20:03:20.571094 2015] [:error] [pid 10212:tid 1120] [client ::1:56652] PHP   1. {main}() C:\\etc\\www\\index.php:0
+[Fri May 01 20:05:02.212908 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:02.212908 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:02.213908 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:03.224966 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:03.224966 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:03.224966 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:04.235023 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:04.235023 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:04.235023 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:05.239081 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:05.239081 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:05.239081 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:06.247138 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:06.247138 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:06.247138 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:07.261196 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:07.261196 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:07.261196 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:08.265254 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:08.265254 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:08.265254 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:09.287312 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:09.288312 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:09.288312 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:10.301370 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:10.302370 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:10.302370 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:11.315428 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:11.316428 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:11.316428 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:12.320486 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:12.320486 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:12.320486 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:13.324543 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:13.324543 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:13.324543 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:14.324600 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:14.324600 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:14.324600 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:15.333658 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:15.333658 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:15.333658 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:16.355717 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:16.355717 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:16.355717 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:17.366774 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:17.366774 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:17.366774 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:18.377832 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:18.378832 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:18.378832 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:19.391890 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:19.391890 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:19.391890 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:20.393948 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:20.393948 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:20.393948 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:21.406005 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:21.406005 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:21.406005 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:22.419063 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:22.419063 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:22.419063 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:23.432121 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:23.433121 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:23.433121 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:24.436179 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:24.436179 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:24.437179 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:25.449237 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:25.449237 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:25.449237 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:26.459295 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:26.459295 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:26.459295 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:27.463352 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:27.463352 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:27.463352 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:28.462409 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:28.462409 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:28.462409 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:29.482467 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:29.482467 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:29.482467 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:30.485525 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Notice:  Undefined variable: time in C:\\etc\\www\\insertToDB.php on line 58
+[Fri May 01 20:05:30.486525 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:30.486525 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:05:31.502583 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\etc\\www\\insertToDB.php on line 49
+[Fri May 01 20:05:31.502583 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP Stack trace:
+[Fri May 01 20:05:31.502583 2015] [:error] [pid 10212:tid 1120] [client ::1:56663] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 20:07:57.151914 2015] [:error] [pid 10212:tid 1120] [client ::1:56739] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\etc\\www\\insertToDB.php on line 49
+[Fri May 01 20:07:57.151914 2015] [:error] [pid 10212:tid 1120] [client ::1:56739] PHP Stack trace:
+[Fri May 01 20:07:57.151914 2015] [:error] [pid 10212:tid 1120] [client ::1:56739] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.475549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.475549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.475549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.475549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.476549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.476549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.476549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.476549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.477549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.477549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.477549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.477549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.478549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.478549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.478549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.478549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.479549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.479549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.479549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.479549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.479549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.480549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.480549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.480549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.480549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.480549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.480549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.480549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.481549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.481549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.481549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.481549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.482549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.483549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.483549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.483549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.483549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.484549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.484549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.484549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.484549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.485549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.485549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.485549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.485549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.485549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.485549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.486549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.486549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.486549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.486549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.486549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.486549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.487549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.487549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.487549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.487549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.488549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.488549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.488549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.488549 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.489550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:09.490550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:09.490550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP Stack trace:
+[Fri May 01 21:59:09.490550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:09.490550 2015] [:error] [pid 10212:tid 1120] [client ::1:64023] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 21:59:39.767281 2015] [:error] [pid 10212:tid 1120] [client ::1:64029] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/0&quot; in C:\\etc\\www\\insertToDB.php on line 36
+[Fri May 01 21:59:39.767281 2015] [:error] [pid 10212:tid 1120] [client ::1:64029] PHP Stack trace:
+[Fri May 01 21:59:39.767281 2015] [:error] [pid 10212:tid 1120] [client ::1:64029] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 21:59:39.767281 2015] [:error] [pid 10212:tid 1120] [client ::1:64029] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:36
+[Fri May 01 22:01:07.540302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.541302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.541302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.541302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.541302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.541302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.542302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.542302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.542302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.542302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.542302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.542302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.543302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.543302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.543302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.543302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.544302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.544302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.544302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.544302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.545302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.545302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.545302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.546302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.546302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.546302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.546302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.546302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.547302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.547302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.547302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.547302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.548302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.548302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.548302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.548302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.549302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.549302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.549302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.549302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.549302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.550302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.550302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.550302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.551302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.551302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.552302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.552302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.553302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.553302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.553302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.553302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.554302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.554302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.554302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.554302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.555302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.555302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.555302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.555302 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.556303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.556303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.556303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.556303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.557303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.557303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.557303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.557303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.558303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
+[Fri May 01 22:01:07.559303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;file:/C:/etc/www/reportfiles/WebUI/$suitName&quot; in C:\\etc\\www\\insertToDB.php on line 37
+[Fri May 01 22:01:07.559303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP Stack trace:
+[Fri May 01 22:01:07.559303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   1. {main}() C:\\etc\\www\\insertToDB.php:0
+[Fri May 01 22:01:07.559303 2015] [:error] [pid 10212:tid 1120] [client ::1:64036] PHP   2. DOMDocument->load(*uninitialized*) C:\\etc\\www\\insertToDB.php:37
